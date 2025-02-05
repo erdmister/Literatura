@@ -78,3 +78,14 @@ Los datos obtenidos se almacenan en la base de datos para facilitar consultas po
 4️⃣ Si el libro no está en la base de datos, se guarda automáticamente.
 
 5️⃣ Se pueden realizar consultas sobre los datos almacenados en la base de datos para recuperar información sin necesidad de hacer nuevas peticiones a la API.
+
+## Imagenes
+![img_1](https://github.com/user-attachments/assets/6e378111-7bbf-4840-90fa-4016febb8bd4)
+
+![img_2](https://github.com/user-attachments/assets/579634ea-6e6b-43f3-8f8d-85db912f2b1a)
+
+![img_3](https://github.com/user-attachments/assets/8563a32c-cef6-4fd3-8139-5a96b7fec230)
+
+![img_4](https://github.com/user-attachments/assets/e8732158-fcc5-49bd-9a4e-aa1d6716390d)
+
+![img_5](https://github.com/user-attachments/assets/ae74ed43-0ca1-4ea0-bf38-87cf529df9d0)
